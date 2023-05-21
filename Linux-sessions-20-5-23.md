@@ -23,4 +23,4 @@
 
        - **switches**: Switches are network devices these are  used to connect servers to storage , outside datacenter and internet using ports.
 
-![switch](/switch.png)
+![switch](/switch.jpg)
