@@ -15,7 +15,7 @@
 
 ![Rack](/rack.jpg)
 
-       - **server** (blde) : Serve blade means Server and its come        without monintor and we will put it in the rack.
+       - **server** (blde) : Serve blade means Server and its comewithout monintor and we will put it in the rack.
 
 ![server](/server.jpg)
 
