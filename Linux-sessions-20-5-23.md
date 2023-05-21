@@ -13,7 +13,7 @@
 
         - **Rack** : Rack is a combination of multiple servers
 
-![Rack](/images/rack.jpg)
+![Rack](H:\Interaction-sessions\Linux\Sessions-B1\images\rack.jpg)
 
        - **server** (blde) : Serve blade means Server and its comewithout monintor and we will put it in the rack.
 
