@@ -10,13 +10,13 @@ Layout of the file system:
 
 · **Each file system contains**:
 
-1.              boot block(s);
+1.               boot block(s);
 
-1.              superblock;
+1.               superblock;
 
-1.              inode list;
+1.               inode list;
 
-1.              data blocks.
+1.               data blocks.
 
 · A boot block may contain the bootstrap code that is read into the machine upon booting.
 
@@ -36,7 +36,7 @@ The term file system can mean a single disk, or it can mean the entire collectio
 
 The directory "tree" usually spans many disks and/or partitions by means of mount points. For example, in Red Hat Linux, there are pre-defined mount points for floppy disks and CD-ROMs at floppy and cdrom in /mnt. See also fstab and mtab in /etc.
 
-##Linux-supported File Systems
+## Linux-supported File Systems
 
 minix is the filesystem used in the Minix operating system, the first to run under Linux. It has a number of shortcomings, mostly in being small.
 
@@ -64,7 +64,7 @@ smb is a network filesystem used by Windows.
 
 ncpfs is a network filesystem that supports the NCP protocol, used by Novell NetWare.
 
-###Partition Structure
+### Partition Structure
 
 **Boot Block(s)**
 
